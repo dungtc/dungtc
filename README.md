@@ -11,5 +11,6 @@ I'm a software engineer. I prefer animals, video game and read medium blogs. I a
 - 🌱 I'll provide you some playground tools and architecture concepts that I know.
 - 😄 I'm going to write my blog if I have freetime.
 
-[![My Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-dung-076221179/)
+Contact one of my socials below:
 
+[![My Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-dung-076221179/)
