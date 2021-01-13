@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi I'm Dung 👋
 
 <!--
 **dungtc/dungtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+I'm a software engineer. I prefer animals, video game and read medium blogs. I am from Vietnam.
+
+- ⚡ Welcome to contribute to my repositories.
+- 💬 I read a lot. All of them from medium, dev.to, dzone, towardsdatascience, and vice versa.
+- 🌱 I'll provide you some playground tools and architecture concepts that I know.
+- 😄 I'm going to write my blog if I have freetime.
+
+[![My Linkedin profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tran-dung-076221179/)
+
